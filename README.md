@@ -1,28 +1,18 @@
-Coucou humain ! 😊
-
-Qu'est-ce qu'un dev qui fait une pause ? Un mythe. 🤭
-
 ### 💻 À propos de moi
+J'aime comprendre comment les choses fonctionnent. Mon vrai problème ? Je ne sais pas m'arrêter à *"ça marche, c'est tout"*. 
 
-Développeuse en construction (et probablement en train de casser un truc). 🔨
-
-J'aime comprendre comment les choses fonctionnent. Mon problème ? Mon cerveau refuse la réponse *"ça marche, , c'est tout"*. Donc je pars chercher le pourquoi du comment... et je reviens 4 heures plus tard avec 37 nouveaux onglets ouverts et une crise d'identité. 💀
-
+Je pars chercher le pourquoi du comment... et je reviens quelques heures plus tard avec 37 nouveaux onglets ouverts et une obsession de plus. 
 
 ### 🔍 En gros, mon quotidien :
-
-* 🔭 **Créer plutôt qu'utiliser** : Je construis des projets parce que j'aime comprendre ce qui se passe sous le capot. 
-* 🌱 **Mes obsessions du moment** : L'IA, les LLMs, les systèmes distribués... bref, tout ce qui me donne une excuse légitime pour ne pas dormir.
-* 💡 **Le piège** : Je peux passer 5 heures à creuser un détail technique insignifiant que personne ne m'avait demandé. Mais maintenant je sais pourquoi ça marche. 🤷
-* 🧠 **État actuel du système** : Curiosité à 100%, idées en surcharge, temps disponible : *Erreur 404*, logiciel humain très mal optimisé.
+* 🔭 **Créer plutôt qu'utiliser** : Je construis mes propres projets parce que j'aime voir ce qui se passe sous le capot.
+* 🌱 **Mes obsessions** : L'IA, les LLMs, les systèmes distribués et l'architecture logicielle.
+* 💡 **Le piège** : Passer 5 heures à décortiquer un détail technique dont personne n'avait parlé, juste pour le plaisir de piger la logique derrière.
 
 ### 🛠️ Les outils avec lesquels je passe beaucoup trop de temps :
-
-* 🐍 **Python** — Pour l'IA, les scripts bizarres et mes expériences de 3h du mat.
-* 🔥 **PyTorch** — Pour créer des modèles... et des erreurs de tenseurs incompréhensibles.
-* 🦀 **Rust** — Parce que me battre 2 heures avec le *borrow checker* juste pour afficher un message me manquait.
-* 🐳 **Docker** — *"Ça marche sur ma machine !"* (La phrase d'accroche avant le drame).
-* ⚡ **TypeScript** — Mon terrain pour le web, parce qu'au moins lui il râle avant la prod.
+* 🐍 **Python / PyTorch** — Pour l'IA, le deep learning et expérimenter sur des modèles.
+* 🦀 **Rust** — Pour la sécurité mémoire, les perfs et dompter le *borrow checker*.
+* ⚡ **TypeScript / Node / React** — Mon terrain le web.
+* 🐳 **Docker** — .
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -41,10 +31,8 @@ J'aime comprendre comment les choses fonctionnent. Mon problème ? Mon cerveau r
   <img src="https://raw.githubusercontent.com/Nico-letta/Nico-letta/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
-
 ### 🤝 On s'écrit ?
-
-Si tu veux parler de LLMs, ou juste envoyer un meme :
+Si tu veux parler de LLMs, d'architecture logicielle ou juste échanger sur la tech :
 
 <p align="left">
   <a href="mailto:nicoettaneycia@gmail.com">
@@ -54,8 +42,3 @@ Si tu veux parler de LLMs, ou juste envoyer un meme :
     <img src="https://img.shields.io/badge/LinkedIn-Discutons-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-
-*Au final, je ne suis qu'un dev qui s'épuise, croyant qu'un jour il deviendra un grand.*
-
-*L’univers est une interface lumineuse. Car créer, c'est plonger dans un flux infini pour offrir un type unique à chaque événement de notre propre cycle. ✨*
