@@ -3,7 +3,6 @@ J'aime comprendre comment les choses fonctionnent. Mon vrai problème ? Je ne sa
 
 Je pars chercher le pourquoi du comment... et je reviens quelques heures plus tard avec 37 nouveaux onglets ouverts et une obsession de plus. 
 
-### 🔍 En gros, mon quotidien :
 * 🔭 **Adepte des POCs** : J'aime construire des prototypes.
 * 🌱 **Mes obsessions** : L'IA, les LLMs, les systèmes distribués et l'architecture logicielle.
 * 💡 **Le piège** : Passer 5 heures à décortiquer un détail technique que personne ne m'a demandé, juste pour le plaisir de me torturer.
