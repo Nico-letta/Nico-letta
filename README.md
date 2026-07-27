@@ -8,7 +8,7 @@ Je pars chercher le pourquoi du comment... et je reviens quelques heures plus ta
 * 🌱 **Mes obsessions** : L'IA, les LLMs, les systèmes distribués et l'architecture logicielle.
 * 💡 **Le piège** : Passer 5 heures à décortiquer un détail technique que personne ne m'a demandé, juste pour le plaisir de me torturer.
 
-### 🛠️ Les outils avec lesquels je passe beaucoup trop de temps :
+### 🛠️ Ma pile technique :
 * 🐍 **Python / PyTorch** — Pour l'IA, le deep learning et expérimenter sur des modèles.
 * 🦀 **Rust** — Pour la sécurité mémoire, les perfs et dompter le *borrow checker*.
 * ⚡ **TypeScript / Node / React** — Mon terrain web.
