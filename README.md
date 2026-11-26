@@ -10,7 +10,7 @@ Je pars chercher le pourquoi du comment... et je reviens quelques heures plus ta
 ### 🛠️ Ma pile technique :
 * 🐍 **Python / PyTorch** — Pour l'IA, le deep learning et expérimenter sur des modèles.
 * 🦀 **Rust** — Pour la sécurité mémoire, les perfs et dompter le *borrow checker*.
-* ⚡ **TypeScript / Node / React** — Mon terrain web.
+* ⚡ **TypeScript / Node / React / Next** — Mon terrain web.
 * 🐳 **Docker** — .
 
 <p align="left">
@@ -21,6 +21,7 @@ Je pars chercher le pourquoi du comment... et je reviens quelques heures plus ta
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://shields.io" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
